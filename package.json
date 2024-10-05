@@ -1,0 +1,21 @@
+{
+    "name": "my-node-project",
+    "version": "1.0.0",
+    "description": "my first node.js project",
+    "main": "first.js",
+    "scripts": {
+        "start": "node first.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "cookie-parser": "^1.4.6",
+        "create-react-app": "^5.0.1",
+        "express": "^4.21.0",
+        "express-session": "^1.18.0",
+        "mongoose": "^8.7.0",
+        "session": "^0.1.0"
+    }
+}
